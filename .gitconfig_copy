@@ -1,0 +1,5 @@
+[user]
+	email = rmarfatia@pinterest.com
+	name = rmarfatia
+[pull]
+	rebase = true
